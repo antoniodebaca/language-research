@@ -22,7 +22,7 @@ History
 
 >
 
-http://www.scala-lang.org/what-is-scala.html
+http://en.wikipedia.org/wiki/Scala_(programming_language)#History
 
 What is Scala good for?
 -------------------------
@@ -53,7 +53,9 @@ def sum(x:List[Int]): Int = {
 Using Arrays
 --------------
 >val numbers = Array(1, 2 ,3 ,4)     //Declaring the array
+
 >val first = numbers(0)				//read the first element
+
 >numbers(3) = 100					//replace the 4th element with 100
 
 
