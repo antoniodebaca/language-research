@@ -1,10 +1,14 @@
-php: jmazzare
-ruby: acole, kgrosh, arthurfc, adebaca, mthurmon
-go:
-rust:
-scala:
+php: 
+ruby: acole, kgrosh, arthurfc, mthurmon, zlambert, yyang, jdelagar, lmatsind, dmesenbr, cnelson
+go:mclausen
+scala: btombari
 clojure: dhampikian
-swift:
-dart:
-SQL: jlewis
+swift: ncabral, mtaylor, jpeng
+dart: tfogdall, cjohnson
+SQL: jlewis, adebaca
 MicroPython: jkniss
+R: sbradbur
+Galaxy: astout
+C#: cowens, rlamichh
+Python: mhandysi, cbarton
+Haskell: jpack
