@@ -2,13 +2,12 @@ php:
 ruby: acole, kgrosh, arthurfc, mthurmon, zlambert, yyang, jdelagar, lmatsind, dmesenbr, cnelson
 go:mclausen
 scala: btombari
-clojure: dhampikian
 swift: ncabral, mtaylor, jpeng
 dart: tfogdall, cjohnson
 SQL: jlewis, adebaca
 MicroPython: jkniss
 R: sbradbur
 Galaxy: astout
-C#: cowens, rlamichh
+C#: cowens, rlamich, dhampikianh
 Python: mhandysi, cbarton
 Haskell: jpack
