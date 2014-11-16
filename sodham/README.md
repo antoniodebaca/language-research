@@ -5,8 +5,11 @@ Scala
 ------
 
 >Scala is an acronym for "Scalable Langue", it is meant to grow with you. Staring out with one-line expressions and eventually learning how to implement the language into large scale projects.
+
 >Scala is both Object-Oriented and Functional, I know, super crazy. Every value in scala is an object and every operation is a method call. Classes, singletons, and traits are just some of the things that make it Object Oriented.
+
 >Scala uses everything that you would traditionally expect in a functional language, including first-class functions, immutable data structures, and a preference of immutability over mutation. It is supposed to be very easy to transition from the object oriented side to the functional side.
+
 >Scala also runs on the JVM so java and scala can be freely mixed, whether or not they are in separate projects or in the same project.
 
 >
@@ -17,7 +20,9 @@ History
 --------
 
 >Design for Scala started in 2001 at the EPFL (École polytechnique fédérale de Lausanne) by Martin Odersky. Odersky's previous works were working on Generic Java and the javac compiler.
+
 >Scala was released publicly in early 2004 on the java platform, preceding a release on the .NET platform in June of 2004. .NET support was officially dropped in 2012.
+
 >On January 17, 2011 the Scala team gained a 2.3 million dollar grant from the European Research Council. Odersky, soon after, launched Typesafe Inc., a company designed to provide commercial support, training, and services for Scala.
 
 >
@@ -28,6 +33,7 @@ What is Scala good for?
 -------------------------
 
 >Scala is a compiled language, it is compiled into java bytecode which runs on the JVM. This makes it able to run concurrently with java.
+
 >Unlike java, however, scala has a very strong root in functional programming, thus side-effecting can be minimized and safer code can be potentially achieved.
 
 Scope
