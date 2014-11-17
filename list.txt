@@ -8,7 +8,6 @@ dart: tfogdall, cjohnson
 SQL: jlewis, adebaca
 MicroPython: jkniss
 R: sbradbur
-Galaxy: astout
-C#: cowens, rlamichh
+C#: cowens, rlamichh, astout
 Python: mhandysi, cbarton
 Haskell: jpack
