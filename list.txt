@@ -1,7 +1,7 @@
 php: 
 ruby: acole, kgrosh, arthurfc, mthurmon, zlambert, yyang, jdelagar, lmatsind, dmesenbr, cnelson
 go:mclausen
-scala: btombari
+scala: btombari, sodham
 clojure: dhampikian
 swift: ncabral, mtaylor, jpeng
 dart: tfogdall, cjohnson
