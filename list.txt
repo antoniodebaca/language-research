@@ -8,6 +8,6 @@ SQL: jlewis, adebaca
 MicroPython: jkniss
 R: sbradbur
 Galaxy: astout
-C#: cowens, rlamich, dhampikianh
+C#: cowens, rlamich, dhampiki
 Python: mhandysi, cbarton
 Haskell: jpack
